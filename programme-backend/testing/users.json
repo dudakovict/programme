@@ -1,0 +1,23 @@
+[
+    {
+      "_id": "5eb8084962ecba2bbc76cda9",
+      "name": "Timon Dudaković",
+      "email": "timon@gmail.com",
+      "role": "admin",
+      "password": "$2a$12$h63KoKufeeNX2lraIZocJeMoGwwcU6xRG/NXyD6BLlAKeaqShucK2"
+    },
+    {
+      "_id": "5eb808f6e7621c3c302f988a",
+      "name": "Nikola Tanković",
+      "email": "nikola@gmail.com",
+      "role": "admin",
+      "password": "$2a$12$rV33eGoD1yi4Y1/O4BmTpuHQyPnhwCQ0Fz1ppfeatPQ3vq9dhRChe"
+    },
+    {
+      "_id": "5eb8091c44d32f37d82547dd",
+      "name": "Jurica Jurinčić",
+      "email": "jurica@gmail.com",
+      "role": "admin",
+      "password": "$2a$12$xqHMFjHcmpxhGvKpBm.41OYgo3o6jGg98i5mAGALFz.Z0x.2PK/9i"
+    }
+]

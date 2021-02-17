@@ -1,0 +1,68 @@
+[
+    {
+        "_id": "5eb2e96d07d0bec090611257",
+        "name": "LAMP",
+        "price": 20,
+        "photo": "subject-5eb2e96d07d0bec090611257-1588866863819-cover.jpeg",
+        "summary": "Linux Apache MySQL PHP/Perl/Python",
+        "description": "LAMP (Linux, Apache, MySQL, PHP/Perl/Python) is a very common example of a web service stack, named as an acronym of the names of its original four open-source components: the Linux operating system, the Apache HTTP Server, the MySQL relational database management system (RDBMS), and the PHP programming language. The LAMP components are largely interchangeable and not limited to the original selection. As a solution stack, LAMP is suitable for building dynamic web sites and web applications.",
+        "tutors": [
+            "5eb8084962ecba2bbc76cda9"
+        ]
+    },
+    {
+        "_id": "5eb2e98507d0bec090611258",
+        "name": "MEAN",
+        "price": 20,
+        "photo": "subject-5eb2e98507d0bec090611258-1588866986424-cover.jpeg",
+        "summary": "MongoDB Express Angular Node",
+        "description": "MEAN (MongoDB, Express.js, AngularJS (or Angular), and Node.js) is a free and open-source JavaScript software stack for building dynamic web sites and web applications. Because all components of the MEAN stack support programs that are written in JavaScript, MEAN applications can be written in one language for both server-side and client-side execution environments. Though often compared directly to other popular web development stacks such as the LAMP stack, the components of the MEAN stack are higher-level including a web application presentation layer and not including an operating system layer.",
+        "tutors": [
+            "5eb8084962ecba2bbc76cda9"
+        ]
+    },
+    {
+        "_id": "5eb2e99207d0bec090611259",
+        "name": "MERN",
+        "price": 20,
+        "photo": "subject-5eb2e99207d0bec090611259-1588867027100-cover.jpeg",
+        "summary": "MongoDB Express React Node",
+        "description": "MERN Stack: MERN Stack is a Javascript Stack that is used for easier and faster deployment of full-stack web applications. MERN Stack comprises of 4 technologies namely: MongoDB, Express, React and Node.js. It is designed to make the development process smoother and easier. Each of these 4 powerful technologies provides an end-to-end framework for the developers to work in and each of these technologies play a big part in the development of web applications.",
+        "tutors": [
+            "5eb8084962ecba2bbc76cda9"
+        ]
+    },
+    {
+        "_id": "5eb2e9a007d0bec09061125a",
+        "name": "MEVN",
+        "price": 20,
+        "photo": "subject-5eb2e9a007d0bec09061125a-1588867000291-cover.jpeg",
+        "summary": "MongoDB Express Vue Node",
+        "description": "Mongo, Express, Vue.js, and Node.js (MEVN) is a collection of JavaScript technologies just like MongoDB, Express, Angular, and Node.js (MEAN), and like MongoDB, Express, React, and Node.js (MERN). It is a full-stack solution for building web-based applications that use MongoDB as data storage, Express.js as the backend framework (which is built on top of Node.js), Vue.js as the JavaScript framework for the frontend, and Node.js as the main engine for the backend.",
+        "tutors": [
+            "5eb8084962ecba2bbc76cda9"
+        ]
+    },
+    {
+        "_id": "5eb2e9ac07d0bec09061125b",
+        "name": "Django",
+        "price": 20,
+        "photo": "subject-5eb2e9ac07d0bec09061125b-1588867015293-cover.jpeg",
+        "summary": "Django Python PostgreSQL",
+        "description": "Django is a Python-based free and open-source web framework, which follows the model-template-view (MTV) architectural pattern. It is maintained by the Django Software Foundation (DSF), an independent organization established as a non-profit. Django's primary goal is to ease the creation of complex, database-driven websites. The framework emphasizes reusability of components, less code, low coupling, rapid development, and the principle of don't repeat yourself. Python is used throughout, even for settings files and data models. Django also provides an optional administrative create, read, update and delete interface that is generated dynamically through introspection and configured via admin models.",
+        "tutors": [
+            "5eb8084962ecba2bbc76cda9"
+        ]
+    },
+    {
+        "_id": "5eb2e9b807d0bec09061125c",
+        "name": "Ruby on Rails",
+        "price": 20,
+        "photo": "subject-5eb2e9b807d0bec09061125c-1588867037386-cover.jpeg",
+        "summary": "Ruby Rails MySQL",
+        "description": "Rails is a web application development framework written in the Ruby programming language. It is designed to make programming web applications easier by making assumptions about what every developer needs to get started. It allows you to write less code while accomplishing more than many other languages and frameworks. Experienced Rails developers also report that it makes web application development more fun.",
+        "tutors": [
+            "5eb8084962ecba2bbc76cda9"
+        ]
+    }
+]
